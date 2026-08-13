@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">博客园 - madneal</title>
+  <id>uuid:43390e91-092a-4931-96c8-94351d52adb1;id=3164198</id>
+  <updated>2019-10-15T11:43:14Z</updated>
+  <author>
+    <name>madneal</name>
+    <uri>https://www.cnblogs.com/madneal/</uri>
+  </author>
+  <generator>feed.cnblogs.com</generator>
+  <entry>
+    <id>https://www.cnblogs.com/madneal/p/11666529.html</id>
+    <title type="text">Pornhub Web 开发者访谈 - madneal</title>
+    <summary type="text">原文：Interview with a Pornhub Web Developer 译者：neal1991 welcome to star my articles-translator, providing you advanced articles translation. Any suggest</summary>
+    <published>2019-10-13T06:40:00Z</published>
+    <updated>2019-10-13T06:40:00Z</updated>
+    <author>
+      <name>madneal</name>
+      <uri>https://www.cnblogs.com/madneal/</uri>
+    </author>
+    <link rel="alternate" href="https://www.cnblogs.com/madneal/p/11666529.html" />
+    <link rel="alternate" type="text/html" href="https://www.cnblogs.com/madneal/p/11666529.html" />
+    <category term="Javascript" />
+    <category term="web开发" />
+    <content type="html">【摘要】原文：Interview with a Pornhub Web Developer 译者：neal1991 welcome to star my articles-translator, providing you advanced articles translation. Any suggest &lt;a href="https://www.cnblogs.com/madneal/p/11666529.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.cnblogs.com/madneal/p/11666401.html</id>
+    <title type="text">Hack the box: Bastion - madneal</title>
+    <summary type="text">介绍...</summary>
+    <published>2019-10-10T09:32:00Z</published>
+    <updated>2019-10-10T09:32:00Z</updated>
+    <author>
+      <name>madneal</name>
+      <uri>https://www.cnblogs.com/madneal/</uri>
+    </author>
+    <link rel="alternate" href="https://www.cnblogs.com/madneal/p/11666401.html" />
+    <link rel="alternate" type="text/html" href="https://www.cnblogs.com/madneal/p/11666401.html" />
+    <content type="html">【摘要】介绍... &lt;a href="https://www.cnblogs.com/madneal/p/11666401.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.cnblogs.com/madneal/p/11666402.html</id>
+    <title type="text">真香系列之 Golang 升级 - madneal</title>
+    <summary type="text">Golang 以前的依赖管理一直饱受诟病，社区的方案也层出不穷，比如 vendor, glide, godep 等。之前的依赖管理一直是依靠 GOPATH 或者将依赖代码下载到本地，这种方式都有劣势。另外由于特...</summary>
+    <published>2019-09-23T11:59:00Z</published>
+    <updated>2019-09-23T11:59:00Z</updated>
+    <author>
+      <name>madneal</name>
+      <uri>https://www.cnblogs.com/madneal/</uri>
+    </author>
+    <link rel="alternate" href="https://www.cnblogs.com/madneal/p/11666402.html" />
+    <link rel="alternate" type="text/html" href="https://www.cnblogs.com/madneal/p/11666402.html" />
+    <content type="html">【摘要】Golang 以前的依赖管理一直饱受诟病，社区的方案也层出不穷，比如 vendor, glide, godep 等。之前的依赖管理一直是依靠 GOPATH 或者将依赖代码下载到本地，这种方式都有劣势。另外由于特... &lt;a href="https://www.cnblogs.com/madneal/p/11666402.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.cnblogs.com/madneal/p/11666403.html</id>
+    <title type="text">官宣！VS Code Python 全新功能在 PyCon China 全球首发！ - madneal</title>
+    <summary type="text">北京...</summary>
+    <published>2019-09-22T01:20:00Z</published>
+    <updated>2019-09-22T01:20:00Z</updated>
+    <author>
+      <name>madneal</name>
+      <uri>https://www.cnblogs.com/madneal/</uri>
+    </author>
+    <link rel="alternate" href="https://www.cnblogs.com/madneal/p/11666403.html" />
+    <link rel="alternate" type="text/html" href="https://www.cnblogs.com/madneal/p/11666403.html" />
+    <content type="html">【摘要】北京... &lt;a href="https://www.cnblogs.com/madneal/p/11666403.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.cnblogs.com/madneal/p/11666404.html</id>
+    <title type="text">如何写一个 Burp 插件 - madneal</title>
+    <summary type="text">Bu...</summary>
+    <published>2019-09-01T02:11:00Z</published>
+    <updated>2019-09-01T02:11:00Z</updated>
+    <author>
+      <name>madneal</name>
+      <uri>https://www.cnblogs.com/madneal/</uri>
+    </author>
+    <link rel="alternate" href="https://www.cnblogs.com/madneal/p/11666404.html" />
+    <link rel="alternate" type="text/html" href="https://www.cnblogs.com/madneal/p/11666404.html" />
+    <content type="html">【摘要】Bu... &lt;a href="https://www.cnblogs.com/madneal/p/11666404.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.cnblogs.com/madneal/p/11666405.html</id>
+    <title type="text">check cve - madneal</title>
+    <summary type="text">今天想检查一下 Gitlab 11.9.0 产品受哪些 cve 的影响。其实网上已经有很多网站可以查询产品的相关 cve，但就是粒度比较粗。我想在 cve 列表中筛选出特定的版本，已经特定的版本，比如是社区版还是旗舰版。找了一下，没有发现完全符合这个要求的。后来在网上我就看到了一个网站是可以提供 c</summary>
+    <published>2019-07-14T09:29:00Z</published>
+    <updated>2019-07-14T09:29:00Z</updated>
+    <author>
+      <name>madneal</name>
+      <uri>https://www.cnblogs.com/madneal/</uri>
+    </author>
+    <link rel="alternate" href="https://www.cnblogs.com/madneal/p/11666405.html" />
+    <link rel="alternate" type="text/html" href="https://www.cnblogs.com/madneal/p/11666405.html" />
+    <content type="html">【摘要】今天想检查一下 Gitlab 11.9.0 产品受哪些 cve 的影响。其实网上已经有很多网站可以查询产品的相关 cve，但就是粒度比较粗。我想在 cve 列表中筛选出特定的版本，已经特定的版本，比如是社区版还是旗舰版。找了一下，没有发现完全符合这个要求的。后来在网上我就看到了一个网站是可以提供 c &lt;a href="https://www.cnblogs.com/madneal/p/11666405.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.cnblogs.com/madneal/p/11666406.html</id>
+    <title type="text">灭霸响指--谷歌 - madneal</title>
+    <summary type="text">谷歌...</summary>
+    <published>2019-04-26T07:22:00Z</published>
+    <updated>2019-04-26T07:22:00Z</updated>
+    <author>
+      <name>madneal</name>
+      <uri>https://www.cnblogs.com/madneal/</uri>
+    </author>
+    <link rel="alternate" href="https://www.cnblogs.com/madneal/p/11666406.html" />
+    <link rel="alternate" type="text/html" href="https://www.cnblogs.com/madneal/p/11666406.html" />
+    <content type="html">【摘要】谷歌... &lt;a href="https://www.cnblogs.com/madneal/p/11666406.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.cnblogs.com/madneal/p/11666407.html</id>
+    <title type="text">Bashed -- hack the box - madneal</title>
+    <summary type="text">Introduction Target: 10.10.10.68 (OS: Linux) Kali linux: 10.10.16.44 Information Enumeration Firstly, detect the open ports: # Nmap 7.70 scan initiate</summary>
+    <published>2019-04-04T10:31:00Z</published>
+    <updated>2019-04-04T10:31:00Z</updated>
+    <author>
+      <name>madneal</name>
+      <uri>https://www.cnblogs.com/madneal/</uri>
+    </author>
+    <link rel="alternate" href="https://www.cnblogs.com/madneal/p/11666407.html" />
+    <link rel="alternate" type="text/html" href="https://www.cnblogs.com/madneal/p/11666407.html" />
+    <content type="html">【摘要】Introduction Target: 10.10.10.68 (OS: Linux) Kali linux: 10.10.16.44 Information Enumeration Firstly, detect the open ports: # Nmap 7.70 scan initiate &lt;a href="https://www.cnblogs.com/madneal/p/11666407.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.cnblogs.com/madneal/p/11666408.html</id>
+    <title type="text">DNS 缓存投毒 - madneal</title>
+    <summary type="text">原文：[DNS Cache Poisoning]( https://medium.com/iocscan/dns-cache-poisoning-bea939b5afaf) 译者：neal1991 welcome to star my articles-translator, providing y</summary>
+    <published>2019-02-18T10:27:00Z</published>
+    <updated>2019-02-18T10:27:00Z</updated>
+    <author>
+      <name>madneal</name>
+      <uri>https://www.cnblogs.com/madneal/</uri>
+    </author>
+    <link rel="alternate" href="https://www.cnblogs.com/madneal/p/11666408.html" />
+    <link rel="alternate" type="text/html" href="https://www.cnblogs.com/madneal/p/11666408.html" />
+    <content type="html">【摘要】原文：[DNS Cache Poisoning]( https://medium.com/iocscan/dns-cache-poisoning-bea939b5afaf) 译者：neal1991 welcome to star my articles-translator, providing y &lt;a href="https://www.cnblogs.com/madneal/p/11666408.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.cnblogs.com/madneal/p/11666409.html</id>
+    <title type="text">什么是DDOS - madneal</title>
+    <summary type="text">什么是 DDOS DDOS(Distributed Denial of Service)，即分布式拒绝服务，是一种针对于网络服务的攻击行为。对于 DDOS 我们可以这样通俗地理解，假如有一家商店在售卖商品，突然涌过来一大帮人说要买东西，这里面有的人是真正的顾客，有的人只是过来捣乱的，但是售货员可能就</summary>
+    <published>2019-01-09T10:05:00Z</published>
+    <updated>2019-01-09T10:05:00Z</updated>
+    <author>
+      <name>madneal</name>
+      <uri>https://www.cnblogs.com/madneal/</uri>
+    </author>
+    <link rel="alternate" href="https://www.cnblogs.com/madneal/p/11666409.html" />
+    <link rel="alternate" type="text/html" href="https://www.cnblogs.com/madneal/p/11666409.html" />
+    <content type="html">【摘要】什么是 DDOS DDOS(Distributed Denial of Service)，即分布式拒绝服务，是一种针对于网络服务的攻击行为。对于 DDOS 我们可以这样通俗地理解，假如有一家商店在售卖商品，突然涌过来一大帮人说要买东西，这里面有的人是真正的顾客，有的人只是过来捣乱的，但是售货员可能就 &lt;a href="https://www.cnblogs.com/madneal/p/11666409.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.cnblogs.com/madneal/p/11666410.html</id>
+    <title type="text">Qradar SIEM--查询利器 AQL - madneal</title>
+    <summary type="text">对于 SIEM 平台来说，好用的查询方式非常重要。之前有体验基于 ELK 搭建的平台，在 kibana 上面是可以通过一些 filter 来做一些过滤并且是支持 lucene 的语法，包括一些简单的逻辑查询以及 wildquery 等等。但是的确是在做一些汇聚之类时不是很方便，一般需要通过 json</summary>
+    <published>2018-10-26T12:36:00Z</published>
+    <updated>2018-10-26T12:36:00Z</updated>
+    <author>
+      <name>madneal</name>
+      <uri>https://www.cnblogs.com/madneal/</uri>
+    </author>
+    <link rel="alternate" href="https://www.cnblogs.com/madneal/p/11666410.html" />
+    <link rel="alternate" type="text/html" href="https://www.cnblogs.com/madneal/p/11666410.html" />
+    <content type="html">【摘要】对于 SIEM 平台来说，好用的查询方式非常重要。之前有体验基于 ELK 搭建的平台，在 kibana 上面是可以通过一些 filter 来做一些过滤并且是支持 lucene 的语法，包括一些简单的逻辑查询以及 wildquery 等等。但是的确是在做一些汇聚之类时不是很方便，一般需要通过 json &lt;a href="https://www.cnblogs.com/madneal/p/11666410.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.cnblogs.com/madneal/p/11666412.html</id>
+    <title type="text">理解 OutOfMemoryError 异常 - madneal</title>
+    <summary type="text">OutOfMemoryError 异常应该可以算得上是一个非常棘手的问题。JAVA 的程序员不用像苦逼的 C 语言程序员手动地管理内存，JVM 帮助他们分配内存，释放内存。但是当遇到内存相关的问题，就比如 OutOfMemoryError，如何去排查并且解决就变成一个非常令人头疼的问题。在 JAVA</summary>
+    <published>2018-05-31T13:05:00Z</published>
+    <updated>2018-05-31T13:05:00Z</updated>
+    <author>
+      <name>madneal</name>
+      <uri>https://www.cnblogs.com/madneal/</uri>
+    </author>
+    <link rel="alternate" href="https://www.cnblogs.com/madneal/p/11666412.html" />
+    <link rel="alternate" type="text/html" href="https://www.cnblogs.com/madneal/p/11666412.html" />
+    <content type="html">【摘要】OutOfMemoryError 异常应该可以算得上是一个非常棘手的问题。JAVA 的程序员不用像苦逼的 C 语言程序员手动地管理内存，JVM 帮助他们分配内存，释放内存。但是当遇到内存相关的问题，就比如 OutOfMemoryError，如何去排查并且解决就变成一个非常令人头疼的问题。在 JAVA &lt;a href="https://www.cnblogs.com/madneal/p/11666412.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.cnblogs.com/madneal/p/11666413.html</id>
+    <title type="text">[译]送给 ES6 开发者的7个 hack - madneal</title>
+    <summary type="text">关注原来的 JavaScript hacks，上面有一些新的好东西。2018 使用 JavaScript 写代码真的又变得有意思了！ Hack #1 — 交换变量 使用数组结构来交换值 let a = &amp;#39;world&amp;#39;, b = &amp;#39;hello&amp;#39; [a, b] = [b, a] console.log(</summary>
+    <published>2018-03-02T10:31:00Z</published>
+    <updated>2018-03-02T10:31:00Z</updated>
+    <author>
+      <name>madneal</name>
+      <uri>https://www.cnblogs.com/madneal/</uri>
+    </author>
+    <link rel="alternate" href="https://www.cnblogs.com/madneal/p/11666413.html" />
+    <link rel="alternate" type="text/html" href="https://www.cnblogs.com/madneal/p/11666413.html" />
+    <content type="html">【摘要】关注原来的 JavaScript hacks，上面有一些新的好东西。2018 使用 JavaScript 写代码真的又变得有意思了！ Hack #1 — 交换变量 使用数组结构来交换值 let a = &amp;#39;world&amp;#39;, b = &amp;#39;hello&amp;#39; [a, b] = [b, a] console.log( &lt;a href="https://www.cnblogs.com/madneal/p/11666413.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.cnblogs.com/madneal/p/11666414.html</id>
+    <title type="text">聊聊答题应用题库的建立 - madneal</title>
+    <summary type="text">前段时间，答题 APP 如火如荼的发展，各大...</summary>
+    <published>2018-02-23T14:30:00Z</published>
+    <updated>2018-02-23T14:30:00Z</updated>
+    <author>
+      <name>madneal</name>
+      <uri>https://www.cnblogs.com/madneal/</uri>
+    </author>
+    <link rel="alternate" href="https://www.cnblogs.com/madneal/p/11666414.html" />
+    <link rel="alternate" type="text/html" href="https://www.cnblogs.com/madneal/p/11666414.html" />
+    <content type="html">【摘要】前段时间，答题 APP 如火如荼的发展，各大... &lt;a href="https://www.cnblogs.com/madneal/p/11666414.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.cnblogs.com/madneal/p/11666415.html</id>
+    <title type="text">使用 ELK 来分析你的支付宝账单 - madneal</title>
+    <summary type="text">ELK 即 elasticsearch, logstash 以及 kibana。Elasticsearch 是一个基于 lucene 的分布式搜索引擎，logstash 是一种日志传输工具，也可以对日志数据进行过滤处理，kibana 则是基于 angular 开发的展示平台，可以进行数据的搜索以及可</summary>
+    <published>2018-02-05T14:23:00Z</published>
+    <updated>2018-02-05T14:23:00Z</updated>
+    <author>
+      <name>madneal</name>
+      <uri>https://www.cnblogs.com/madneal/</uri>
+    </author>
+    <link rel="alternate" href="https://www.cnblogs.com/madneal/p/11666415.html" />
+    <link rel="alternate" type="text/html" href="https://www.cnblogs.com/madneal/p/11666415.html" />
+    <content type="html">【摘要】ELK 即 elasticsearch, logstash 以及 kibana。Elasticsearch 是一个基于 lucene 的分布式搜索引擎，logstash 是一种日志传输工具，也可以对日志数据进行过滤处理，kibana 则是基于 angular 开发的展示平台，可以进行数据的搜索以及可 &lt;a href="https://www.cnblogs.com/madneal/p/11666415.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.cnblogs.com/madneal/p/11666416.html</id>
+    <title type="text">POI读取文件的最佳实践 - madneal</title>
+    <summary type="text">POI是 Apache 旗下一款读写微软家文档声名显赫的类库。应该很多人在做报表的导出，或者创建 word 文档以及读取之类的都是用过 POI。POI 也的确对于这些操作带来很大的便利性。我最近做的一个工具就是读取计算机中的 word 以及 excel 文件。下面我就两方面讲解以下遇到的一些坑： w</summary>
+    <published>2017-11-26T08:30:00Z</published>
+    <updated>2017-11-26T08:30:00Z</updated>
+    <author>
+      <name>madneal</name>
+      <uri>https://www.cnblogs.com/madneal/</uri>
+    </author>
+    <link rel="alternate" href="https://www.cnblogs.com/madneal/p/11666416.html" />
+    <link rel="alternate" type="text/html" href="https://www.cnblogs.com/madneal/p/11666416.html" />
+    <content type="html">【摘要】POI是 Apache 旗下一款读写微软家文档声名显赫的类库。应该很多人在做报表的导出，或者创建 word 文档以及读取之类的都是用过 POI。POI 也的确对于这些操作带来很大的便利性。我最近做的一个工具就是读取计算机中的 word 以及 excel 文件。下面我就两方面讲解以下遇到的一些坑： w &lt;a href="https://www.cnblogs.com/madneal/p/11666416.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.cnblogs.com/madneal/p/11666417.html</id>
+    <title type="text">基于ELK进行邮箱访问日志的分析 - madneal</title>
+    <summary type="text">公司希望能够搭建自己的日志分析系统。现在基于...</summary>
+    <published>2017-11-16T01:12:00Z</published>
+    <updated>2017-11-16T01:12:00Z</updated>
+    <author>
+      <name>madneal</name>
+      <uri>https://www.cnblogs.com/madneal/</uri>
+    </author>
+    <link rel="alternate" href="https://www.cnblogs.com/madneal/p/11666417.html" />
+    <link rel="alternate" type="text/html" href="https://www.cnblogs.com/madneal/p/11666417.html" />
+    <content type="html">【摘要】公司希望能够搭建自己的日志分析系统。现在基于... &lt;a href="https://www.cnblogs.com/madneal/p/11666417.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.cnblogs.com/madneal/p/11666418.html</id>
+    <title type="text">出去就餐并且理解Express.js的基本知识 - madneal</title>
+    <summary type="text">Going out to eat and u...</summary>
+    <published>2017-11-12T09:13:00Z</published>
+    <updated>2017-11-12T09:13:00Z</updated>
+    <author>
+      <name>madneal</name>
+      <uri>https://www.cnblogs.com/madneal/</uri>
+    </author>
+    <link rel="alternate" href="https://www.cnblogs.com/madneal/p/11666418.html" />
+    <link rel="alternate" type="text/html" href="https://www.cnblogs.com/madneal/p/11666418.html" />
+    <content type="html">【摘要】Going out to eat and u... &lt;a href="https://www.cnblogs.com/madneal/p/11666418.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.cnblogs.com/madneal/p/11666419.html</id>
+    <title type="text">将Medium中的博客导出成markdown - madneal</title>
+    <summary type="text">Medium(https://medium....</summary>
+    <published>2017-09-23T08:33:00Z</published>
+    <updated>2017-09-23T08:33:00Z</updated>
+    <author>
+      <name>madneal</name>
+      <uri>https://www.cnblogs.com/madneal/</uri>
+    </author>
+    <link rel="alternate" href="https://www.cnblogs.com/madneal/p/11666419.html" />
+    <link rel="alternate" type="text/html" href="https://www.cnblogs.com/madneal/p/11666419.html" />
+    <content type="html">【摘要】Medium(https://medium.... &lt;a href="https://www.cnblogs.com/madneal/p/11666419.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.cnblogs.com/madneal/p/11666420.html</id>
+    <title type="text">JavaScript是如何工作的：引擎，运行时间以及调用栈的概述 - madneal</title>
+    <summary type="text">JavaScript是如何工作的：引擎，运行时以及调用栈的概述 原文：How JavaScript works: an overview of the engine, the runtime, and the call stack 译者：neal1991 welcome to star my art</summary>
+    <published>2017-09-13T13:05:00Z</published>
+    <updated>2017-09-13T13:05:00Z</updated>
+    <author>
+      <name>madneal</name>
+      <uri>https://www.cnblogs.com/madneal/</uri>
+    </author>
+    <link rel="alternate" href="https://www.cnblogs.com/madneal/p/11666420.html" />
+    <link rel="alternate" type="text/html" href="https://www.cnblogs.com/madneal/p/11666420.html" />
+    <content type="html">【摘要】JavaScript是如何工作的：引擎，运行时以及调用栈的概述 原文：How JavaScript works: an overview of the engine, the runtime, and the call stack 译者：neal1991 welcome to star my art &lt;a href="https://www.cnblogs.com/madneal/p/11666420.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+</feed>
